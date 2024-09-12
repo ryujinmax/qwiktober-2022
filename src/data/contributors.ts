@@ -88,6 +88,26 @@ const contributor = [
     instagramUsername: "athallah_zaq",
     linkedinUsername: "athallah-zaidan"
   },
+  {
+    fullname: "Bananavv",
+    githubUsername: "bananaavv"
+  },
+  {
+    fullname: "Muhammad Fadlan",
+    githubUsername: "Aisydd"
+  },
+  {
+    fullname: "Shifan",
+    githubUsername: "yansif233"
+  },
+  {
+    fullname: "Ahmad Syahran Zidane",
+    githubUsername: "syahran15"
+  },
+  {
+    fullname: "Miftahul Khoir",
+    githubUsername: "FathHaq"
+  },
 ];
 
 export default contributor;
